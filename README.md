@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="./github-banner.png" width="100%" />
+
+</div>
+
+<br>
 ## 👩‍💻 About Me
 
 I'm a Computer Science undergraduate at **VIT Chennai**, passionate about AI/ML,
