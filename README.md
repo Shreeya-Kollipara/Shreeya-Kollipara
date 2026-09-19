@@ -200,18 +200,6 @@ Real-time workplace safety monitoring using **YOLO and computer vision**.
 
 ---
 
-## 📈 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shreeya-Kollipara&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeya-Kollipara&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 ```text
